@@ -4,7 +4,7 @@ title: 简介
 subtitle: 一个优秀的人
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 在XX下载</strong></a> </span>
 <br>
 
 ### 标题一
